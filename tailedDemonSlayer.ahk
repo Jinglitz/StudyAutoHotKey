@@ -214,3 +214,4 @@ startTimer:
 
 GuiClose:
 F3::ExitApp
+;추가 되나?
